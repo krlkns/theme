@@ -89,11 +89,7 @@ body {
 }
 .footer {
   width: 100%;
-  background-image: linear-gradient(
-    to right,
-    #583d727e,
-    rgba(255, 255, 255, 0)
-  );
+  background-image: linear-gradient(to top, #583d727e, rgba(255, 255, 255, 0));
   position: relative;
   padding: 60px;
 }
